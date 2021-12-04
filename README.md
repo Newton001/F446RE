@@ -1,6 +1,6 @@
-#BASIC LIBRARY FILES
+# BASIC LIBRARY FILES
 
-##ICM20689 MBED LIBRARY
+## ICM20689 MBED LIBRARY
 
 Enter into the lib folder, you will find the folder, ICM20689 which contains the library
 
